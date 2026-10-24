@@ -1,6 +1,6 @@
 # Christopher Moore's Analytics Portfolio
 
-## [Project 1: Medical Insurance Analysis] **Link 1 **
+## [Project 1: Medical Insurance Analysis] (https://github.com/MooreBabbage/portfolio/tree/main/medical-insurance-cost-analysis)
 
 ## [Project 2: SQL Database Analysis]
 
