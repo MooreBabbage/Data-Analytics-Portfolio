@@ -16,3 +16,5 @@ This is two assignments I completed for a Database Systems course, where I make 
 * Demonstrates relational database operations, data retrieval, joins, string functions, conditional expressions, and data manipulation using SQL.
 
 ## [Project 3: Leadership Dashboard]
+
+WORK IN PROGRESS
