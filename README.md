@@ -7,7 +7,7 @@ This is a combination of two different assignments I completed for an Introducti
 * Exploratory data analysis of medical insurance costs using Python, Pandas, Matplotlib, and Seaborn
 * Examines relationships between age, BMI, smoking status, and insurance charges through statistical analysis and data visualization.
 
-## [Project 2: SQL Database Analysis] (https://github.com/MooreBabbage/portfolio/tree/main/sql-original)
+## [Project 2: SQL Database Analysis] (https://github.com/MooreBabbage/Data-Analytics-Portfolio/tree/main/SQL-Database-Operations)
 This is two assignments I completed for a Database Systems course, where I make use of SELECT statements, Joins, Insert, Update, along with other commands.
 
 * SQL database querying and management projects using MySQL Workbench.
